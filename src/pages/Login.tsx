@@ -171,7 +171,7 @@ const Login: React.FC = () => {
         
         <div className="text-center mt-6">
           <p className="text-xs text-muted-foreground">
-            Demo: teacher@school.edu / secure123
+            Demo: teacher@school.edu / Secure123
           </p>
         </div>
       </div>

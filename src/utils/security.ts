@@ -141,7 +141,7 @@ export const getDemoCredentials = () => {
   // In a real app, these would come from environment variables or configuration
   return {
     email: "teacher@school.edu",
-    password: "secure123"
+    password: "Secure123"
   };
 };
 
