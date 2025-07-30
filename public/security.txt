@@ -1,0 +1,27 @@
+# Security Policy
+
+## Reporting Security Vulnerabilities
+
+If you discover a security vulnerability, please report it responsibly:
+
+1. Do not create a public GitHub issue
+2. Contact the development team directly
+3. Provide detailed information about the vulnerability
+4. Allow reasonable time for the team to address the issue
+
+## Security Best Practices
+
+This application implements the following security measures:
+
+- Input validation and sanitization
+- Session management with expiration
+- Rate limiting on authentication attempts
+- Content Security Policy compliance
+- Secure localStorage operations
+- Error handling without information leakage
+
+## Contact
+
+For security-related inquiries, please contact the development team.
+
+Last updated: 2025-01-30
